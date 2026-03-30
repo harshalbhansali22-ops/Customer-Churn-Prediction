@@ -34,4 +34,3 @@ This project predicts whether a customer will churn (leave a service) using mach
 - Contract type significantly impacts churn  
 - Longer tenure reduces churn probability  
 
-## ⭐ If you found this useful, consider giving it a star!
